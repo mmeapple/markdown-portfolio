@@ -1,0 +1,6 @@
+- [ ] Coffee
+- [ ] Read
+- [ ] Watch movies
+- [ ] Swim
+- [ ] Cake
+- [ ] Ice cream
